@@ -7,7 +7,7 @@ I am Hack cat + Loser / Linux on android
 
 # pkg install python
 
-# https://github.com/PhonePyaeThu/Andro-Nux
+# git clone https://github.com/PhonePyaeThu/Andro-Nux
 
 # cd Andro-Nux
 
