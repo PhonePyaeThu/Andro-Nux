@@ -3,7 +3,7 @@ I am Hack cat + Loser / Linux on android
 
 # pkg update -y
 
-# pkh install git
+# pkg install git
 
 # pkg install python
 
